@@ -11,3 +11,5 @@
 
 
 # Hints
+
+![](img/hints.png)
